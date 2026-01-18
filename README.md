@@ -29,12 +29,15 @@ Calculus Tool — это простой учебный проект на Python,
 git clone https://github.com/sofiakatlan3-cloud/calculus_tool.git
 cd calculus_tool
 
+---
+
 Создайте виртуальное окружение:
 
 python -m venv venv
 
-
+---
 Активируйте виртуальное окружение:
+---
 
 Windows
 
@@ -45,16 +48,20 @@ Linux / macOS
 
 source venv/bin/activate
 
-
+---
 Установите зависимости (если есть):
+---
 
 pip install -r requirements.txt
 
+---
 Запуск проекта
+---
 
 Для запуска проекта выполните команду:
 
 python main.py
 
+---
 
 После запуска в консоли отобразятся примеры выполнения математических операций.
